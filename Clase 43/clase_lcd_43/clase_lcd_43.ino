@@ -17,7 +17,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   lcd.setCursor(0, 0);
-  lcd.print("Mira como cuento");
+  lcd.print("Te amo mami joha");
 
 
   lcd.setCursor(0, 1);
